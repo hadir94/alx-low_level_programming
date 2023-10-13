@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * _isupper - uppercase letters func.
+ * _isupper - uppercase letters
+ * @c: char to check
  *
  * Return: 0 or 1
  */
